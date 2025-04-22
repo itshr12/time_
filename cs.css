@@ -1,0 +1,11 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  background-color: antiquewhite;
+}
+#d{
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
